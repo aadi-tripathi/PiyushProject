@@ -1,9 +1,9 @@
-version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: PiyushProject
+- gitBranch: main
   gitServerName: NewTest
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  gitBranch: main
+  name: PiyushProject
+version: '1.0'
